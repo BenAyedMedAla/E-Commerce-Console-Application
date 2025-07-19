@@ -1,5 +1,5 @@
-                        # E-Commerce-Console-Application #
-                  *Object Oriented Programming project in java*
+# E-Commerce-Console-Application #
+**Object Oriented Programming project in java**
 
 
 This console application is a simple E-Commerce system implemented in Java. 
