@@ -6,9 +6,8 @@ This console application is a simple E-Commerce system implemented in Java.
 It allows both administrators and customers to interact with the inventory, 
 manage shopping carts, and perform transactions.
 
-           *Features*
-
-      --For Administrators--
+**Features**
+## For Administrators
 
 -Product Management:
 
@@ -26,7 +25,7 @@ Display detailed information about products, including reviews and ratings.
 
 Add promotion codes to provide discounts.
 
-     --For Customers--
+## For Customers
 
 -Product Interaction:
 
@@ -50,7 +49,7 @@ Perform transactions using a credit card.
 Apply promotion codes for discounts.
 
 
-       **Project Structure**
+**Project Structure**
 
 -Inventory Class:
 
@@ -88,14 +87,14 @@ Implement the adminDisplay and customerDisplay methods for displaying product de
 Contains the main method to run the console application.
 Provides a user interface for both administrators and customers.
              
-                     **How to Run**
+**How to Run**
 
 Compile and run the Test class.
 Follow the on-screen prompts to interact with the E-Commerce system.
  !!--> This project is designed with on-screen instructions guiding the user through the process of adding products or users. 
     Simply follow the prompts on the screen to interact with the application and customize it by adding your desired products or users.
  		
-		      **REMARKS**
+**REMARKS**
 I didn't create a separate class for users (admin/customer) initially, as I believed that collecting email and password input 
 in the Test class would be sufficient. However, during the implementation, I ended up incorporating the entire functionality 
 of a User class within the Test class(using typeofowner).
