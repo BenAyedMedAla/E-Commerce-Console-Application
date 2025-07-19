@@ -95,6 +95,7 @@ Follow the on-screen prompts to interact with the E-Commerce system.
     Simply follow the prompts on the screen to interact with the application and customize it by adding your desired products or users.
  		
 **REMARKS**
+
 I didn't create a separate class for users (admin/customer) initially, as I believed that collecting email and password input 
 in the Test class would be sufficient. However, during the implementation, I ended up incorporating the entire functionality 
 of a User class within the Test class(using typeofowner).
